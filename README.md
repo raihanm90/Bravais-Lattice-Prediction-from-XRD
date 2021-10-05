@@ -4,7 +4,7 @@ A project to identify Bravais crystal structures from the XRD patterns.
 ## Problem statement and Datasets
 The project was completed as an assignment for the [Nano281](https://github.com/materialsvirtuallab/nano281/tree/master/labs/lab3) course at UCSD. Datasets can be downloaded using Kaggle API (kaggle competitions download -c nano281fa2020).
 
-## Features
+## Feature selection
 sin^2(2theta) is related to h^2+k^2+l^2 of the crystal planes and is used as features. Also since sin(theta) contains the phase information, coefficients from Discrete Sine Transform (DST) was used as features too.
 
 ## Used models and accuracy
