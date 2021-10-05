@@ -1,4 +1,4 @@
-# Bravais-Lattice-Prediction-from-XRD
+# Bravais Lattice Prediction from XRD pattern
 A project to identify Bravais crystal structures from the XRD patterns.  
 
 ## Problem statement and Datasets
